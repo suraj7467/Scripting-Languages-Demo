@@ -9,4 +9,6 @@ You need to create a new folder inside the directory of your section.
 Your directory should have following format - ClassRollNo_UniversityRoll_No_FirstName_Last_Name.
 
 Question 1: create a student registration form with username, password, DOB, email.
+
+
 Question 2: Explain the use of external CSS.
