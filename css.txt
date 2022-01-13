@@ -1,0 +1,8 @@
+use of external css
+
+
+An external css is used to define the style for many HTML pages
+
+
+
+To use an external cssis to add a link to it in the head  section of each HTML page:
