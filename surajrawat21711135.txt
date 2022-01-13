@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+<head>
+<title>registration form</title>
+</head>
+<body>
+<center>
+<h3>registration form</h3>
+<table>
+<tr>
+<td>user id:</td>
+<td>
+<input type="text" name="user"
+placeholder="enter name here">
+</td>
+</tr>
+      <tr>
+
+<td>password:</td>
+<td>
+<input type="password" name="password"
+ placeholder="enter password here">
+</td
+</tr>
+<tr>
+<td>
+ Email:<br>
+  <input type="email" name="email" required>
+  <br>
+<input type="date" data-date-inline-picker="true" />
+
+</td>
+</tr>
+</table>
+
+</center>
+</body>
+</html>
